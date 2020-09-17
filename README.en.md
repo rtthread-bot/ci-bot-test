@@ -1,7 +1,7 @@
 # ci-bot-test
 
 #### Description
-专用用于CI自动测试用。
+专用用于CI自动测试用
 
 #### Software Architecture
 Software architecture description
